@@ -23,7 +23,7 @@ This tutorial outlines the post-install configuration of the open-source help de
 - Configure Departments
 - Configure Agent workers
 - Configure SLA
-- COnfigure Help Topics
+- Configure Help Topics
 
 <h2>Configuration Steps</h2>
 
@@ -31,7 +31,14 @@ This tutorial outlines the post-install configuration of the open-source help de
 <img src="https://i.imgur.com/R7MEf4P.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Here i configred the Roles with Admin and named it Zeus/Admin. Roles are the permissions granted to Agents per Department that they have access to. Each Role has a set of permissions that can be checked/unchecked for agents given that Role in association with a Department they have access to. An unlimited number of roles can be created and assigned to Agents with access to various departments.
+Here i configred the Roles with Admin and named it Zeus/Admin. Roles are the permissions granted to Agents per Department that they have access to. Each Role has a set of permissions that can be checked/unchecked for agents given that Role in association with a Department they have access to. An unlimited number of roles can be created and assigned to Agents with access to various departments. Any Agent/user that has this Role will have the ability to:
+
+- Create tickets
+- Delete tickets
+- Edit
+- Assign 
+- Transfer and much more
+  
 </p>
 <br />
 
