@@ -43,10 +43,10 @@ Here i configred the Roles with Admin and named it Zeus/Admin. Roles are the per
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/cRyVkHM.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Here i configred the Department with Admin and named it Mount Olympus Administrators
+Here i configred the Department with Admin and named it Mount Olympus Administrators along with the Default Support Department and the Maintenance department. Since tickets are routed through Departments in the help desk, there are many settings that can be set for each Department.
 </p>
 <br />
 
