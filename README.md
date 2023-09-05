@@ -72,6 +72,13 @@ Here i created fake Users to be able to create tickets for later role playing is
 <img src="https://i.imgur.com/CH7pvhC.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
+In this part of the Lab i created Three different types of Service Level Agreements, all ranging from different catogories. 
+
+
+- Sev-A (1 hour, 24/7)
+- Sev-B (4 hours, 24/7)
+- Sev-C (8 hours, business hours)
+  
 SLA Plans or Service Level Agreements, are unlimited in osTicket. The purpose of the SLA Plan is to provide a length of time in which the help desk Administrator expects tickets to be closed.
 
 </p>
