@@ -74,7 +74,6 @@ Here i created fake Users to be able to create tickets for later role playing is
 <p>
 In this part of the Lab i created Three different types of Service Level Agreements, all ranging from different catogories. 
 
-
 - Sev-A (1 hour, 24/7)
 - Sev-B (4 hours, 24/7)
 - Sev-C (8 hours, business hours)
@@ -88,14 +87,15 @@ SLA Plans or Service Level Agreements, are unlimited in osTicket. The purpose of
 <img src="https://i.imgur.com/ReTgGJE.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Configure Help Topics
-Admin Panel -> Manage -> Help Topics
-Business Critical Outage
-Personal Computer Issues
-Equipment Request
-Password Reset
 
+In last section of the Post Installation i created Help Topics to organize the tickets that are going to be made by the users.
 
+- Business Critical Outage
+- Personal Computer Issues
+- Equipment Request
+- Password Reset
+
+In the next part of the lab i will make Tickets as the user and walk thru the Lifecycle of each ticket.
 </p>
 <br />
 
