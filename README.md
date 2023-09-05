@@ -57,3 +57,38 @@ In this section i created agents Named Hector Troy and Archilles Greek i assigne
 
 </p>
 <br />
+
+<p>
+<img src="https://i.imgur.com/VxGquSh.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+
+Here i created fake Users to be able to create tickets for later role playing issues. Users are the ticket owners of the tickets in the help desk. When a ticket is created in the help desk, the user is associated with their email address in the User Directory of the help desk. Users can be added or deleted from the User Directory of the help desk at any time. Please note, if the user is deleted the tickets of the user must also be deleted.
+
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/CH7pvhC.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+SLA Plans or Service Level Agreements, are unlimited in osTicket. The purpose of the SLA Plan is to provide a length of time in which the help desk Administrator expects tickets to be closed.
+
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/ReTgGJE.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Configure Help Topics
+Admin Panel -> Manage -> Help Topics
+Business Critical Outage
+Personal Computer Issues
+Equipment Request
+Password Reset
+
+
+</p>
+<br />
+
